@@ -1,0 +1,104 @@
+1)What is HTML?
+A)HTML --> Hypertext markup language which is used to build webpages and coming to markup language this is used for communicating browser.
+
+2)What are the adv of using HTML?
+A)to create webpages
+  Easy to learn
+  SEO (Search engine optimization)
+ 
+3)What is Diff b/w HTML and XHTML?
+A)XHTML -->extensible Hypertext markup language
+   XHTML stands for EXtensible HyperText Markup Language
+   XHTML is a stricter, more XML-based version of HTML
+   XHTML is HTML defined as an XML application
+   XHTML is supported by all major browsers
+--->>The Most Important Differences from HTML
+
+ <!DOCTYPE> is mandatory
+ The xmlns attribute in <html> is mandatory
+ <html>, <head>, <title>, and <body> are mandatory
+ Elements must always be properly nested
+ Elements must always be closed
+ Elements must always be in lowercase
+ Attribute names must always be in lowercase
+ Attribute values must always be quoted
+ Attribute minimization is forbidden
+
+
+4)what are the diff versions of HTML?
+A)1.0,2.0,3.0,3.2,
+
+5)What are the basic building blocks of html?
+A)<!DOCTYPE>
+        <root element>
+             <Header>
+                <body>
+
+6)what is the diff b/w HTML tags and attributes?
+A)Tag-->It is a keyword which is represented in <> and which is used for giving instructions to browser.
+  Attributes--->It give additional info of a tag.
+
+7)What are diff types of html attributes?
+A)Standard attributes--href,title,src...   (img src="" title="")
+  Event attributes-->onclick ,onhover...
+  Form attributes-->action,target,method,enctype
+
+8)What are the diff parts of an HTML table?
+A)<table>
+<thead></thead>
+<tbody></tbody>
+           <tr>
+                <th>
+                     <td>
+                          </td></th></tr></table>
+
+9)What is a HTML form?
+A)It is used for taking data from user and send to server /another html /jsp file/ etc...
+
+10)What are the diff types of form controls in HTML?
+A)label
+  input -->text,email,reset,submit,password,url,color,date,month,week,text,radio,checkbox,hidden(This is used for hiding the data and passing throught servers without notifying users
+-->hidden attribute is used for session tracking)
+  select->option
+  textarea
+  fieldset->legend
+  datalist->option
+  button
+
+11)What is diff b/w GET and POST request in HTML?
+A)GET--->>>
+Get method is used for getting the non-sensitive data.
+Get request it is not secured to send any multimedia data to servers
+GET requests can be cached
+GET requests remain in the browser history
+GET requests can be bookmarked
+GET requests should never be used when dealing with sensitive data
+GET requests are only used to request data (not modify)
+Get method cant store large data
+POST--->>>
+POST requests are never cached
+POST requests do not remain in the browser history
+POST requests cannot be bookmarked
+POST requests have no restrictions on data length
+POST method can store large data
+POST method can send multimedia data(enctype)
+
+
+12)What is diff b/w Text area and Textdata?
+A)Text area--->Text area will hold Large values and Text area have rows and columns and can be expanded(addresss,letters....,feedbacks.....)
+  Textdata---->
+
+
+13)What is diff b/w span and div in HTML?
+A)SPAN-->It is a inline element
+  DIV-->It is a block level element.
+
+14)What is purpose of the alt attribute?
+A)if image is not loaded due to some error by using alt we will write some thing to user.
+
+15)What is diff b/w hr and br?
+A)br-->it is used to breakthe line and start the line in a new line.
+  hr-->it is used to make a underline for any element.
+       But it consider the left side elements and make underline for that data remaining will be shown in the next line and it will be breaken.
+
+16)
